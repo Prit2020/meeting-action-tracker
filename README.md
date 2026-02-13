@@ -1,5 +1,10 @@
 # Meeting Action Items Tracker
 
+## Live Links
+
+Frontend: https://meeting-action-tracker-sigma.vercel.app/
+Backend API: https://meeting-action-tracker-eszj.onrender.com/
+
 ## Overview
 
 The Meeting Action Items Tracker is a full-stack web application that uses AI to extract actionable tasks from meeting transcripts and provides a clean interface to manage and track those tasks.
