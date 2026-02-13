@@ -20,7 +20,7 @@ I am a BSc Information Technology graduate and a Full Stack Developer based in M
 This project demonstrates my ability to design and implement a complete solution with a clean user interface, efficient backend logic, and a focus on usability and performance.
 
 ## Resume
-(Add your Google Drive or PDF resume link here)
+Resume: https://drive.google.com/drive/folders/1_vSYyvkX9I9NuGsUW4pdh0SH3huyzbMM?usp=drive_link
 
 ## Contact
 Email: pritchudasama2020@gmail.com  

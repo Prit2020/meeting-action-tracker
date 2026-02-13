@@ -55,5 +55,3 @@ Users can paste meeting transcripts, automatically generate action items, and ma
 - Database: MongoDB Atlas
 
 ---
-
-## Project Structure
